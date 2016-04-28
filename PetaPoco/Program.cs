@@ -67,11 +67,7 @@ namespace PetaPoco
             {
                 Console.WriteLine(smax.PreTaxAmount);
             }
-            Console.WriteLine("Total Sales Report:");
-            foreach (var d in db.Query<SalesMade>("select datediff(day, min(SalesDate), max(SalesDate) from SalesMade"))
-            {
-                Console.WriteLine(d);
-            }
+            
 
 
             Console.ReadLine();

@@ -8,3 +8,13 @@ C:\Users\Kevin Admin\documents\visual studio 2015\Projects\PetaPoco\PetaPoco\bin
 C:\Users\Kevin Admin\documents\visual studio 2015\Projects\PetaPoco\PetaPoco\obj\Debug\PetaPoco.csprojResolveAssemblyReference.cache
 C:\Users\Kevin Admin\documents\visual studio 2015\Projects\PetaPoco\PetaPoco\obj\Debug\PetaPoco.exe
 C:\Users\Kevin Admin\documents\visual studio 2015\Projects\PetaPoco\PetaPoco\obj\Debug\PetaPoco.pdb
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\bin\Debug\PetaPoco.exe.config
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\obj\Debug\PetaPoco.exe
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\obj\Debug\PetaPoco.pdb
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\bin\Debug\PetaPoco.exe
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\bin\Debug\PetaPoco.pdb
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\bin\Debug\EntityFramework.dll
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\bin\Debug\EntityFramework.xml
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kvnma\Source\Repos\Petapoco\PetaPoco\obj\Debug\PetaPoco.csprojResolveAssemblyReference.cache
